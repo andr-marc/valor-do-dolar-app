@@ -7,9 +7,9 @@ Aplicativo feito em Flutter para estudos.
 O objetivo é consumir uma API para mostrar o valor atualizado do dólar.
 
 <div style="display: flex; flex-direction:row;">
-    <img src="assets/git/pt.png" alt="Português" style="width:50%; height:50%" />
-    <img src="assets/git/en.png" alt="Inglês" style="width:50%; height:50%" />
-    <img src="assets/git/it.png" alt="Italiano" style="width:50%; height:50%" />
+    <img src="assets/git/pt.png" alt="Português" style="width:15%; height:15%" />
+    <img src="assets/git/en.png" alt="Inglês" style="width:15%; height:15%" />
+    <img src="assets/git/it.png" alt="Italiano" style="width:15%; height:15%" />
 </div>
 
 ## TODO
