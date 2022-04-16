@@ -1,0 +1,23 @@
+{
+  "appTitle": "dollar_value",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "homeTitle": "Dollar Value",
+  "@homeTitle": {
+    "description": "The title of the homepage"
+  },
+  "textMessage": "One dollar is",
+  "@textMessage": {
+    "description": "The message 'One dollar is'"
+  },
+  "valueMessage": "BRL {value} worth",
+  "@valueMessage": {
+    "description": "The message of dollar price in BRL",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  }
+}
